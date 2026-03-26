@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning DevOps<br>I'm working as a IT Engineer in India<br>I'm interested in Cloud, Architecture, System Design, Automation and AI
+I'm learning DevOps<br>I'm working as a IT Engineer in India<br>I'm interested in Cloud Architecture, System Design, Automation and AI
 
 
 ## 🌐 Socials:

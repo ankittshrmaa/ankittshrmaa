@@ -6,7 +6,7 @@
 ### Building Products. Engineering Infrastructure. Exploring What's Next.
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=7C83FD&center=true&vCenter=true&width=700&lines=Co-founder+%40+TaskTeddy+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%94%A7;Automating%2C+Learning%2C+Shipping+%E2%9A%A1" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=7C83FD&center=true&vCenter=true&width=700&lines=Co-founder+CTO+%40+TaskTeddy+%F0%9F%9A%80;Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+%F0%9F%94%A7;Automating%2C+Learning%2C+Shipping+%E2%9A%A1" alt="Animated introduction"/>
 </a>
 
 <br/>

@@ -35,7 +35,7 @@ I'm Ankit, a developer-minded entrepreneur from India interested in building use
 
 Currently, I'm focused on two things: **building TaskTeddy** and growing my skills in **DevOps and cloud engineering**.
 
-- 🚀 **Startup:** Co-founder at [TaskTeddy](https://taskteddy.com)
+- 🚀 **Startup:** Co-founder and CTO at [TaskTeddy](https://taskteddy.com)
 - ☁️ **Exploring:** Cloud architecture, AWS, Linux, and infrastructure automation
 - 🐳 **Building with:** Docker, CI/CD, Python, FastAPI, and PostgreSQL
 - 📊 **Operational experience:** Production monitoring, observability, incident management, and reliability

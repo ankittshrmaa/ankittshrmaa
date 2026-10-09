@@ -1,98 +1,200 @@
 
-# Hey, I'm Ankit Sharma 👋
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-### IT Operations & Monitoring | Aspiring DevOps Engineer | Co-founder at TaskTeddy
+<div align="center">
 
-I'm an IT professional in India working with production systems, infrastructure monitoring, incident management, and service reliability. I'm building my expertise in DevOps and cloud engineering through hands-on projects and continuous learning.
+# ANKIT SHARMA
 
-- 🖥️ **Currently working as:** Senior Executive at Findoc
-- 🚀 **Co-founder at:** [TaskTeddy](https://taskteddy.com), an early-stage household-services marketplace
-- ☁️ **Focused on:** DevOps, Cloud Infrastructure, CI/CD, and Automation
-- 📊 **Production monitoring:** Grafana, Prometheus, Alertmanager, Zabbix, and GLPI
-- 🐳 **Infrastructure:** Linux, Docker, Jenkins, Nginx, and AWS
-- 💻 **Development:** Python, FastAPI, Flutter, PostgreSQL, and Redis
-- 🎯 **Interests:** Cloud Architecture, System Design, Observability, Automation, and AI
+### `IT OPERATIONS` · `DEVOPS ENGINEERING` · `STARTUP BUILDING`
 
----
+<a href="https://github.com/ankittshrmaa">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=650&lines=Monitoring+Production+Systems+%F0%9F%93%8A;Building+Cloud+%26+DevOps+Skills+%E2%98%81%EF%B8%8F;Automating+the+Boring+Stuff+%E2%9A%99%EF%B8%8F;Building+TaskTeddy+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🚀 Building TaskTeddy
+<br/>
 
-[![TaskTeddy](https://img.shields.io/badge/TaskTeddy-Household_Services-6C63FF?style=for-the-badge)](https://taskteddy.com)
+<a href="https://github.com/ankittshrmaa?tab=followers">
+  <img src="https://img.shields.io/github/followers/ankittshrmaa?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C83FD" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/ankittshrmaa">
+  <img src="https://komarev.com/ghpvc/?username=ankittshrmaa&style=for-the-badge&color=7C83FD&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://taskteddy.com">
+  <img src="https://img.shields.io/badge/Co--founder-TaskTeddy-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="TaskTeddy"/>
+</a>
 
-I'm a co-founder of **TaskTeddy**, a startup building a household-services marketplace that connects customers with service professionals.
+<br/><br/>
 
-We're developing customer and service-provider mobile apps, a backend platform, and an admin portal to manage operations.
+**I work with production systems, explore cloud infrastructure, and build products that solve real problems.**
 
-**Our technology stack:**
+[Explore My Repositories](https://github.com/ankittshrmaa?tab=repositories) · [Connect on LinkedIn](https://linkedin.com/in/ankittshrma) · [Meet TaskTeddy](https://taskteddy.com)
 
-- 📱 Mobile Apps: Flutter
-- ⚙️ Backend: Python, FastAPI
-- 🗄️ Database: PostgreSQL
-- ⚡ Caching: Redis
-- 🌐 Admin Portal: Web technologies
-- 🐳 Deployment: Docker, Nginx, and Linux
-
-Our goal is to build a reliable, scalable foundation that can grow with the business.
-
-🌐 Website: [taskteddy.com](https://taskteddy.com)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-### ☁️ Cloud, DevOps & Infrastructure
+## `$ whoami`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+```yaml
+name: Ankit Sharma
+location: India
+current_role: Senior Executive @ Findoc
+also: Co-founder @ TaskTeddy
 
-### 📈 Monitoring & Observability
+focus:
+  - Production Monitoring & Incident Management
+  - DevOps & Cloud Engineering
+  - Infrastructure Automation
+  - System Reliability & Observability
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
+currently_exploring:
+  - AWS & Cloud Architecture
+  - Docker & CI/CD
+  - Linux & Infrastructure as Code
+  - Scalable System Design
+```
 
-### 💻 Programming & Development
+I'm an IT professional who enjoys understanding what happens behind the scenes when applications go live. My work revolves around monitoring production environments, responding to incidents, investigating root causes, and improving operational reliability.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Outside work, I'm developing my DevOps skill set through hands-on experimentation and helping build **TaskTeddy**, a household-services startup.
 
-### 🗄️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+My philosophy: **Understand the system. Automate the repeatable. Fix the root cause.**
 
 ---
 
-## 📊 GitHub Stats
+## 🛰️ The Operations Console
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankittshrmaa&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankittshrmaa&theme=shades-of-purple&hide_border=true)
+| AREA | WHAT I DO |
+|:---|:---|
+| 📡 Monitoring | Grafana, Prometheus, Alertmanager, Zabbix |
+| 🚨 Incident Management | Troubleshooting, RCA, SLA tracking |
+| 🐧 Infrastructure | Linux, Nginx, server administration |
+| ☁️ Cloud | AWS fundamentals, cloud infrastructure |
+| ⚙️ Automation | Bash, Python, scripting |
+| 🚀 Delivery | Docker, Jenkins, CI/CD learning |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittshrmaa&theme=shades-of-purple&hide_border=true&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankittshrma)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankittshrma)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitttshrma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit.work.0720@gmail.com)
+</div>
 
 ---
 
-*Learning by building. Improving systems. Shipping useful things.*
+## 🚀 Building Something: TaskTeddy
+
+<div align="center">
+
+<a href="https://taskteddy.com">
+  <img src="https://img.shields.io/badge/TASKTEDDY-Building_the_future_of_household_services-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="TaskTeddy"/>
+</a>
+
+### Less hassle. More getting things done.
+
+</div>
+
+I'm a **Co-founder of [TaskTeddy](https://taskteddy.com)**, an early-stage household-services marketplace connecting customers with service professionals.
+
+We're building a platform with dedicated mobile experiences, backend services, and an admin portal to support the marketplace.
+
+**The technology behind the product**
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
+My focus is on helping shape the product and its technical foundation, with an emphasis on maintainability, operational reliability, and future scalability.
+
+<div align="center">
+
+<a href="https://taskteddy.com">
+  <img src="https://img.shields.io/badge/🌐_Visit_TaskTeddy-taskteddy.com-6C63FF?style=for-the-badge" alt="Visit TaskTeddy"/>
+</a>
+
+</div>
+
+---
+
+## 🧰 My Tech Arsenal
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,bash,nginx,git,github&theme=dark" alt="Cloud and DevOps technologies"/>
+</p>
+
+### Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" alt="Monitoring tools"/>
+</p>
+
+`Zabbix` · `Alertmanager` · `GLPI`
+
+### Development & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,nodejs,nextjs,postgres,redis,mysql,mongodb,powershell&theme=dark" alt="Development technologies"/>
+</p>
+
+*Some technologies are part of my current learning journey, while others are tools I use in practical work and projects.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ankittshrmaa">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ankittshrmaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ankit's GitHub stats"/>
+</a>
+<a href="https://github.com/ankittshrmaa">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittshrmaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ankittshrmaa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Around the Internet
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ankittshrma">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/ankittshrma">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://x.com/ankitttshrma">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:ankit.work.0720@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (alive) { learn(); build(); improve(); }`
+
+**Keeping systems observable. Making infrastructure reliable. Building what comes next.**
+
+⭐ If something here interests you, explore my repositories and say hello.
+
+</div>
